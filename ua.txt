@@ -1,0 +1,500 @@
+mozilla/5.0 (macintosh; intel mac os x 10_10_4) applewebkit/537.36 (khtml, like gecko) chrome/44.0.2403.155 safari/537.36
+mozilla/5.0 (macintosh; intel mac os x 10_10_4) applewebkit/600.7.12 (khtml, like gecko) version/8.0.7 safari/600.7.12
+mozilla/5.0 (x11; linux x86_64) applewebkit/537.36 (khtml, like gecko) chrome/42.0.2311.135 safari/537.36
+mozilla/5.0 (macintosh; intel mac os x 10_10_5) applewebkit/600.8.9 (khtml, like gecko) version/8.0.8 safari/600.8.9
+mozilla/5.0 (iphone; cpu iphone os 8_2 like mac os x) applewebkit/600.1.4 (khtml, like gecko) crios/44.0.2403.67 mobile/12d508 safari/600.1.4
+mozilla/5.0 (windows nt 6.1; wow64) applewebkit/537.36 (khtml, like gecko) chrome/44.0.2403.155 safari/537.36
+mozilla/5.0 (windows nt 6.1; rv:38.0) gecko/20100101 firefox/38.0
+mozilla/5.0 (windows nt 6.3; win64; x64) applewebkit/537.36 (khtml, like gecko) chrome/37.0.2049.0 safari/537.36
+mozilla/5.0 (windows nt 10.0) applewebkit/537.36 (khtml, like gecko) chrome/42.0.2311.135 safari/537.36 edge/12.10240
+mozilla/5.0 (windows nt 6.2; wow64) applewebkit/537.36 (khtml, like gecko) chrome/43.0.2357.65 safari/537.36
+mozilla/5.0 (x11; linux x86_64) applewebkit/537.31 (khtml, like gecko) chrome/42.0 safari/537.31
+mozilla/5.0 (windows nt 6.3; wow64; rv:39.0) gecko/20100101 firefox/39.0
+mozilla/5.0 (compatible; msie 9.0; windows nt 6.1; wow64; trident/5.0)
+mozilla/5.0 (macintosh; intel mac os x 10_6_8) applewebkit/534.59.10 (khtml, like gecko) version/5.1.9 safari/534.59.10
+mozilla/5.0 (compatible; yahoo! slurp; http://help.yahoo.com/help/us/ysearch/slurp)
+mozilla/5.0 (compatible; msie 10.0; windows nt 6.1; wow64; trident/6.0)
+mozilla/5.0 (windows nt 6.1) applewebkit/537.36 (khtml, like gecko) coc_coc_browser/50.0.125 chrome/44.0.2403.125 safari/537.36
+mozilla/4.0 (compatible; msie 7.0; windows nt 6.1; trident/7.0; slcc2; .net clr 2.0.50727; .net clr 3.5.30729; .net clr 3.0.30729; media center pc 6.0; .net4.0c; .net4.0e)
+mozilla/5.0 (windows nt 6.1; wow64; rv:40.0) gecko/20100101 firefox/40.0
+mozilla/5.0 (windows nt 10.0; wow64) applewebkit/537.36 (khtml, like gecko) chrome/39.0.2171.71 safari/537.36 edge/12.0
+mozilla/5.0 (windows nt 6.3; wow64; rv:36.0) gecko/20100101 firefox/36.0
+mozilla/4.0 (compatible; msie 8.0; windows nt 6.1; wow64; trident/4.0; gtb7.5; slcc2; .net clr 2.0.50727; .net clr 3.5.30729; .net clr 3.0.30729; media center pc 6.0; .net4.0c)
+mozilla/5.0 (windows nt 10.0; win64; x64) applewebkit/537.36 (khtml, like gecko) chrome/42.0.2311.135 safari/537.36 edge/12.10240
+mozilla/5.0 (windows nt 6.3; wow64; trident/7.0; rv:11.0) like gecko
+mozilla/5.0 (compatible; msie 10.0; windows nt 6.1; trident/6.0) linkcheck by siteimprove.com
+mozilla/5.0 (windows nt 6.3; wow64) applewebkit/537.36 (khtml, like gecko) chrome/43.0.2357.65 safari/537.36
+mozilla/5.0 (windows nt 6.3; win64; x64; trident/7.0; rv:11.0) like gecko
+mozilla/5.0 (iphone; cpu iphone os 8_4 like mac os x) applewebkit/600.1.4 (khtml, like gecko) version/8.0 mobile/12h143 safari/600.1.4
+mozilla/5.0 (windows nt 6.3; wow64) applewebkit/537.36 (khtml, like gecko) chrome/44.0.2403.157 safari/537.36
+mozilla/5.0 (windows nt 6.1; wow64; rv:39.0) gecko/20100101 firefox/39.0
+mozilla/5.0 (windows nt 6.3; wow64) applewebkit/537.36 (khtml, like gecko) chrome/44.0.2403.155 safari/537.36
+mozilla/5.0 (windows nt 6.0) applewebkit/537.36 (khtml, like gecko) chrome/44.0.2403.155 safari/537.36
+mozilla/5.0 (bb10; touch) applewebkit/537.35+ (khtml, like gecko) version/10.3.2.2339 mobile safari/537.35+
+mozilla/5.0 (windows nt 6.0; wow64) applewebkit/537.36 (khtml, like gecko) chrome/43.0.2357.65 safari/537.36
+mozilla/5.0 (windows nt 6.1; wow64; trident/7.0; rv:11.0) like gecko
+mozilla/5.0 (windows nt 10.0; wow64; rv:40.0) gecko/20100101 firefox/40.0
+mozilla/5.0 (macintosh; intel mac os x 10.10; rv:40.0) gecko/20100101 firefox/40.0
+mozilla/5.0 (mobile; windows phone 8.1; android 4.0; arm; trident/7.0; touch; rv:11.0; iemobile/11.0; nokia; lumia 525) like iphone os 7_0_3 mac os x applewebkit/537 (khtml, like gecko) mobile safari/537
+mozilla/5.0 (windows nt 6.3; wow64) applewebkit/537.36 (khtml, like gecko) chrome/44.0.2403.107 safari/537.36
+mozilla/5.0 (macintosh; intel mac os x 10.10; rv:37.0) gecko/20100101 firefox/37.0
+mozilla/5.0 (x11; linux x86_64) applewebkit/537.36 (khtml, like gecko) ubuntu chromium/44.0.2403.89 chrome/44.0.2403.89 safari/537.36
+mozilla/5.0 (ipad; cpu os 8_4 like mac os x) applewebkit/600.1.4 (khtml, like gecko) version/8.0 mobile/12h143 safari/600.1.4
+mozilla/5.0 (macintosh; intel mac os x 10_10) applewebkit/600.1.25 (khtml, like gecko) quicklook/5.0
+mozilla/5.0 (x11; ubuntu; linux x86_64; rv:40.0) gecko/20100101 firefox/40.0
+mozilla/5.0 (windows nt 6.3; wow64; trident/7.0; matbjs; rv:11.0) like gecko
+mozilla/5.0 (windows nt 6.0; wow64) applewebkit/537.36 (khtml, like gecko) chrome/44.0.2403.155 safari/537.36
+mozilla/5.0 (windows nt 10.0; trident/7.0; rv:11.0) like gecko
+mozilla/4.0 (compatible; msie 6.0; windows nt 5.1; sv1; .net clr 2.0.50727; .net clr 3.0.4506.2152; .net clr 3.5.30729)
+mozilla/5.0 (windows nt 6.0; wow64; rv:35.0) gecko/20100101 firefox/35.0
+mozilla/5.0 (linux; u; android 4.3; en-us; zte-z667g build/jls36c) applewebkit/534.30 (khtml, like gecko) version/4.0 mobile safari/534.30
+mozilla/5.0 (windows nt 6.1; wow64) applewebkit/537.36 (khtml, like gecko) chrome/44.0.2403.157 safari/537.36
+mozilla/5.0 (windows nt 6.3; wow64; trident/7.0; touch; asu2js; rv:11.0) like gecko
+mozilla/5.0 (windows nt 6.1; wow64; rv:38.0) gecko/20100101 firefox/38.0
+mozilla/5.0 (windows nt 10.0; wow64; trident/7.0; rv:11.0) like gecko
+mozilla/5.0 (windows nt 5.1; wow64) applewebkit/537.36 (khtml, like gecko) chrome/43.0.2357.65 safari/537.36
+mozilla/5.0 (windows nt 6.1; wow64) applewebkit/537.36 (khtml, like gecko) chrome/43.0.2357.65 safari/537.36
+mozilla/5.0 (ipad; cpu os 8_3 like mac os x) applewebkit/600.1.4 (khtml, like gecko) version/8.0 mobile/12f69 safari/600.1.4
+mozilla/5.0 (windows nt 6.0; wow64; rv:39.0) gecko/20100101 firefox/39.0
+mozilla/5.0 (iphone; cpu iphone os 8_4_1 like mac os x) applewebkit/600.1.4 (khtml, like gecko) version/8.0 mobile/12h321 safari/600.1.4
+mozilla/5.0 (windows nt 6.3; wow64; trident/7.0; tnjb; rv:11.0) like gecko
+mozilla/5.0 (windows nt 6.1; wow64; rv:41.0) gecko/20100101 firefox/41.0
+mozilla/4.0 (compatible; msie 8.0; windows nt 6.1; trident/4.0; slcc2; .net clr 2.0.50727; .net clr 3.5.30729; .net clr 3.0.30729; media center pc 6.0; .net4.0c; .net4.0e; infopath.2)
+mozilla/5.0 (windows nt 6.1; trident/7.0; rv:11.0) like gecko
+mozilla/5.0 (ipad; cpu os 7_1_2 like mac os x) applewebkit/537.51.2 (khtml, like gecko) version/7.0 mobile/11d257 safari/9537.53
+mozilla/5.0 (windows nt 6.1) applewebkit/537.36 (khtml, like gecko) chrome/44.0.2403.155 safari/537.36
+mozilla/5.0 (iphone; cpu iphone os 8_3 like mac os x) applewebkit/600.1.4 (khtml, like gecko) version/8.0 mobile/12f70 safari/600.1.4
+mozilla/5.0 (x11; linux x86_64; rv:36.0) gecko/20100101 firefox/36.0
+mozilla/5.0 (ipad; cpu os 8_4_1 like mac os x) applewebkit/600.1.4 (khtml, like gecko) version/8.0 mobile/12h321 safari/600.1.4
+mozilla/5.0 (macintosh; intel mac os x 10.8; rv:21.0) gecko/20100101 firefox/21.0
+mozilla/5.0 (macintosh; intel mac os x 10.9; rv:35.0) gecko/20100101 firefox/35.0
+mozilla/5.0 (macintosh; intel mac os x 10_7_5) applewebkit/537.78.2 (khtml, like gecko) version/6.1.6 safari/537.78.2
+mozilla/5.0 (windows nt 10.0; win64; x64) applewebkit/537.36 (khtml, like gecko) chrome/44.0.2403.130 safari/537.36
+mozilla/5.0 (compatible; googlebot/2.1; +http://www.google.com/bot.html)
+mozilla/5.0 (windows nt 6.3; wow64; rv:40.0) gecko/20100101 firefox/40.0
+mozilla/5.0 (mobile; rv:32.0) gecko/32.0 firefox/32.0
+mozilla/4.0 (compatible; msie 7.0; windows nt 6.2; wow64; trident/7.0; .net4.0e; .net4.0c; .net clr 3.5.30729; .net clr 2.0.50727; .net clr 3.0.30729; tablet pc 2.0; mcafee; americascardroom; bri/2; gwx:downloaded)
+mozilla/5.0 (macintosh; intel mac os x 10_10_3) applewebkit/537.36 (khtml, like gecko) chrome/44.0.2403.155 safari/537.36
+mozilla/5.0 (compatible; msie 9.0; windows nt 6.1; trident/7.0)
+mozilla/5.0 (ipad; cpu os 8_2 like mac os x) applewebkit/600.1.4 (khtml, like gecko) version/8.0 mobile/12d508 safari/600.1.4
+mozilla/5.0 (macintosh; intel mac os x 10_10_4) applewebkit/537.36 (khtml, like gecko) chrome/46.0.2483.0 safari/537.36
+mozilla/5.0 (windows nt 5.1; wow64; rv:39.0) gecko/20100101 firefox/39.0
+mozilla/4.0 (compatible; msie 7.0; windows nt 6.1; wow64; trident/6.0; slcc2; .net clr 2.0.50727; .net clr 3.5.30729; .net clr 3.0.30729; media center pc 6.0; infopath.3; .net4.0c; .net4.0e; ms-rtc lm 8)
+mozilla/5.0 (android; linux armv7l; rv:5.0) gecko/20110615 firefox/5.0 fennec/5.0
+mozilla/5.0 (iphone; cpu iphone os 8_1_3 like mac os x) applewebkit/600.1.4 (khtml, like gecko) mobile/12b466 [fban/fbios;fbav/37.0.0.21.273;fbbv/13822349;fbdv/iphone6,1;fbmd/iphone;fbsn/iphone os;fbsv/8.1.3;fbss/2; fbcr/fido;fbid/phone;fblc/fr_fr;fbop/5]
+mozilla/5.0 (windows nt 6.1; win64; x64; rv:40.0) gecko/20100101 firefox/40.0 cyberfox/40.0
+mozilla/5.0 (ipad; cpu os 7_0_4 like mac os x) applewebkit/537.51.1 (khtml, like gecko) mercury/8.7 mobile/11b554a safari/9537.53
+mozilla/4.0 (compatible; msie 7.0; windows nt 6.3; wow64; trident/7.0; .net4.0e; .net4.0c; .net clr 3.5.30729; .net clr 2.0.50727; .net clr 3.0.30729; gwx:qualified; masmjs)
+mozilla/5.0 (iphone; cpu iphone os 7_1 like mac os x) applewebkit (khtml, like gecko) mobile (compatible; yahoo! slurp; http://help.yahoo.com/help/us/ysearch/slurp)
+mozilla/5.0 (windows nt 6.1; wow64; trident/7.0; np06; rv:11.0) like gecko
+mozilla/4.0 (compatible; msie 7.0; windows nt 6.3; arm; trident/7.0; touch; .net4.0e; .net4.0c; tablet pc 2.0)
+mozilla/5.0 (windows; u; windows nt 6.1; en-us; rv:1.9.0.19) gecko/2010062819 firefox/3.0.19 flock/2.6.1
+mozilla/5.0 (windows nt 10.0; wow64) applewebkit/537.36 (khtml, like gecko) chrome/44.0.2403.157 safari/537.36
+mozilla/5.0 (windows nt 6.3; wow64; trident/7.0; touch; rv:11.0) like gecko
+mozilla/4.0 (compatible; msie 7.0; windows nt 6.1; wow64; trident/7.0; slcc2; .net clr 2.0.50727; .net clr 3.5.30729; .net clr 3.0.30729; media center pc 6.0; .net4.0c; .net4.0e)
+mozilla/5.0 (macintosh; intel mac os x 10_10) applewebkit/600.1.25 (khtml, like gecko) version/8.0 safari/600.1.25
+mozilla/5.0 (windows nt 6.2) applewebkit/537.36 (khtml, like gecko) chrome/44.0.2403.157 safari/537.36
+mozilla/5.0 (macintosh; intel mac os x 10_10_1) applewebkit/600.1.25 (khtml, like gecko) version/8.0 safari/600.1.25
+mozilla/4.0 (compatible; msie 6.1; windows xp; .net clr 1.1.4322; .net clr 2.0.50727)
+mozilla/5.0 (linux; android 4.4; nexus 5 build/_buildid_) applewebkit/537.36 (khtml, like gecko) version/4.0 chrome/30.0.0.0 mobile safari/537.36
+mozilla/5.0 (macintosh; intel mac os x 10.10; rv:39.0) gecko/20100101 firefox/39.0
+mozilla/5.0 (macintosh; intel mac os x 10_10_2) applewebkit/600.4.10 (khtml, like gecko) version/8.0.4 safari/600.4.10
+mozilla/5.0 (compatible; msie 10.0; windows nt 6.2; wow64; trident/6.0; touch; maarjs)
+mozilla/5.0 (macintosh; u; intel mac os x; en-us) applewebkit/537+ (khtml, like gecko) version/5.0 safari/537.6+ midori/0.4
+mozilla/5.0 (compatible; msie 9.0; windows nt 6.1; trident/5.0)
+mozilla/5.0 (ipad; cpu os 8_4 like mac os x) applewebkit/600.1.4 (khtml, like gecko) mobile/12h143 [fban/fbios;fbav/37.0.0.21.273;fbbv/13822349;fbdv/ipad2,5;fbmd/ipad;fbsn/iphone os;fbsv/8.4;fbss/1; fbcr/;fbid/tablet;fblc/en_us;fbop/1]
+mozilla/4.0 (compatible; msie 8.0; windows nt 5.1; trident/4.0; .net clr 2.0.50727; .net clr 3.0.4506.2152; .net clr 3.5.30729)
+mozilla/5.0 (macintosh; intel mac os x 10_8_5) applewebkit/537.36 (khtml, like gecko) chrome/39.0.2171.95 safari/537.36
+mozilla/4.0 (compatible; msie 8.0; windows nt 5.1; trident/4.0; .net clr 2.0.50727; .net clr 3.0.4506.2152; .net clr 3.5.30729; cmdtdf; .net clr 1.1.4322)
+mozilla/5.0 (macintosh; intel mac os x 10.7; rv:40.0) gecko/20100101 firefox/40.0
+mozilla/5.0 (compatible; ahrefsbot/5.0; +http://ahrefs.com/robot/)
+mozilla/5.0 (windows nt 6.1; wow64) applewebkit/537.36 (khtml, like gecko) chrome/41.0.2272.101 safari/537.36
+mozilla/5.0 (macintosh; intel mac os x 10.7; rv:35.0) gecko/20100101 firefox/35.0
+mozilla/5.0 (macintosh; intel mac os x 10_8_5) applewebkit/537.36 (khtml, like gecko) chrome/44.0.2403.157 safari/537.36
+mozilla/5.0 (windows nt 6.3; wow64) applewebkit/537.36 (khtml, like gecko) chrome/43.0.2357.132 safari/537.36
+mozilla/5.0 (x11; linux x86_64) applewebkit/537.36 (khtml, like gecko) ubuntu chromium/43.0.2357.81 chrome/43.0.2357.81 safari/537.36
+mozilla/5.0 (windows nt 6.2; rv:36.0) gecko/20100101 firefox/36.0
+mozilla/5.0 (compatible; msie 10.0; windows nt 6.2; trident/6.0)
+mozilla/5.0 (x11; linux i686) applewebkit/534.24 (khtml, like gecko) chrome/11.0.696.77 large screen safari/534.24 googletv/092754
+mozilla/5.0 (windows nt 5.1) applewebkit/537.36 (khtml, like gecko) chrome/44.0.2403.157 safari/537.36
+mozilla/5.0 (windows nt 6.1; rv:36.0) gecko/20100101 firefox/36.0
+mozilla/5.0 (compatible; msie 9.0; windows nt 6.1; trident/5.0); 360spider(compatible; haosouspider; http://www.haosou.com/help/help_3_2.html)
+mozilla/5.0 (windows nt 6.1; wow64; trident/7.0; funwebproducts; rv:11.0) like gecko
+mozilla/5.0 (linux; android 4.4.2; 0pcv1 build/kot49h) applewebkit/537.36 (khtml, like gecko) chrome/44.0.2403.133 mobile safari/537.36
+mozilla/5.0 (windows nt 6.2) applewebkit/537.36 (khtml, like gecko) chrome/45.0.2423.0 safari/537.36
+mozilla/5.0 (macintosh; intel mac os x 10_9_5) applewebkit/537.36 (khtml, like gecko) chrome/44.0.2403.157 safari/537.36
+mozilla/5.0 (windows nt 6.0; rv:40.0) gecko/20100101 firefox/40.0
+mozilla/5.0 (windows nt 6.1) applewebkit/537.36 (khtml, like gecko) chrome/39.0.2171.95 safari/537.36
+mozilla/5.0 (macintosh; intel mac os x 10_10_4) applewebkit/537.36 (khtml, like gecko) chrome/39.0.2171.95 safari/537.36
+mozilla/5.0 (windows nt 6.1; win64; x64) applewebkit/537.36 (khtml, like gecko) chrome/44.0.2403.157 safari/537.36
+mozilla/5.0 (x11; linux x86_64) applewebkit/537.36 (khtml, like gecko) chrome/43.0.2357.93 safari/537.36
+mozilla/5.0 (linux; u; android 4.4.2; en-us; gt-i9505 build/jdq39) applewebkit/534.30 (khtml, like gecko) version/4.0 mobile safari/534.30
+mozilla/5.0 (macintosh; intel mac os x 10_7_5) applewebkit/537.36 (khtml, like gecko) chrome/44.0.2403.157 safari/537.36
+mozilla/5.0 (macintosh; intel mac os x 10_9_2) applewebkit/537.74.9 (khtml, like gecko) version/7.0.2 safari/537.74.9
+mozilla/5.0 (macintosh; intel mac os x 10_9_5) applewebkit/537.36 (khtml, like gecko) chrome/39.0.2171.95 safari/537.36
+mozilla/5.0 (windows nt 6.0; wow64; rv:40.0) gecko/20100101 firefox/40.0
+mozilla/5.0 (macintosh; intel mac os x 10.8; rv:37.0) gecko/20100101 firefox/37.0
+mozilla/5.0 (macintosh; intel mac os x 10.8; rv:40.0) gecko/20100101 firefox/40.0
+mozilla/5.0 (linux; u; android 4.1.2; en-us; gt-n8013 build/jzo54k) applewebkit/534.30 (khtml, like gecko) version/4.0 safari/534.30
+mozilla/5.0 (macintosh; intel mac os x 10_9_5) applewebkit/600.8.9 (khtml, like gecko) version/7.1.8 safari/537.85.17
+samsung-gt-e2350b/1.0 openwave/6.2.3 profile/midp-2.0 configuration/cldc-1.1 up.browser/6.2.3.3.c.1.101 (gui) mmp/2.0
+mozilla/5.0 (macintosh; intel mac os x 10.10; rv:36.0) gecko/20100101 firefox/36.0
+mozilla/5.0 (compatible; mj12bot/v1.4.5; http://www.majestic12.co.uk/bot.php?+)
+mozilla/4.0 (compatible; msie 7.0; windows nt 6.0)
+mozilla/5.0 (windows nt 6.1; wow64; rv:36.0) gecko/20100101 firefox/36.0
+mozilla/5.0 (macintosh; intel mac os x 10_10_3) applewebkit/600.6.3 (khtml, like gecko) version/8.0.6 safari/600.6.3
+mozilla/5.0 (linux; u; android 4.4.2; en-us; 0pcv1 build/kot49h) applewebkit/534.30 (khtml, like gecko) version/4.0 mobile safari/534.30
+mozilla/5.0 (macintosh; intel mac os x 10.9; rv:36.0) gecko/20100101 firefox/36.0
+mozilla/5.0 (windows nt 6.3; win64; x64; trident/7.0; touch; lcjb; rv:11.0) like gecko
+mozilla/5.0 (windows nt 6.1; rv:37.0) gecko/20100101 firefox/37.0
+mozilla/5.0 (macintosh; intel mac os x 10_7_5) applewebkit/537.36 (khtml, like gecko) chrome/44.0.2403.155 safari/537.36
+mozilla/5.0 (iphone; cpu iphone os 8_1_1 like mac os x) applewebkit/600.1.4 (khtml, like gecko) version/8.0 mobile/12b436 safari/600.1.4
+mozilla/4.0 (compatible; msie 7.0; windows nt 6.2; wow64; trident/6.0; .net4.0e; .net4.0c; .net clr 3.5.30729; .net clr 2.0.50727; .net clr 3.0.30729; zune 4.7; tablet pc 2.0)
+mozilla/5.0 (windows nt 6.2; rv:38.0) gecko/20100101 firefox/38.0
+mozilla/5.0 (macintosh; intel mac os x 10.9; rv:37.0) gecko/20100101 firefox/37.0
+mozilla/4.0 (compatible; msie 7.0; windows nt 5.1)
+mozilla/5.0 (macintosh; intel mac os x 10.9; rv:40.0) gecko/20100101 firefox/40.0
+mozilla/5.0 (macintosh; intel mac os x 10_9_5) applewebkit/537.36 (khtml, like gecko) chrome/44.0.2403.155 safari/537.36
+mozilla/5.0 (macintosh; intel mac os x 10.8; rv:36.0) gecko/20100101 firefox/36.0
+mozilla/5.0 (windows nt 5.1; rv:36.0) gecko/20100101 firefox/36.0
+mozilla/5.0 (windows nt 6.2; rv:37.0) gecko/20100101 firefox/37.0
+mozilla/5.0 (windows nt 5.1; rv:37.0) gecko/20100101 firefox/37.0
+mozilla/5.0 (windows nt 5.1; rv:38.0) gecko/20100101 firefox/38.0
+mozilla/5.0 (macintosh; intel mac os x 10.7; rv:36.0) gecko/20100101 firefox/36.0
+mozilla/5.0 (macintosh; intel mac os x 10_10_4) applewebkit/537.36 (khtml, like gecko) chrome/40.0.2214.91 safari/537.36
+mozilla/5.0 (macintosh; intel mac os x 10_8_5) applewebkit/600.6.3 (khtml, like gecko) version/6.2.6 safari/537.85.15
+mozilla/5.0 (windows nt 5.1) applewebkit/534.57.2 (khtml, like gecko) version/5.1.7 safari/534.57.2
+mozilla/5.0 (windows nt 10.0; wow64) applewebkit/537.36 (khtml, like gecko) chrome/44.0.2403.155 safari/537.36
+mozilla/5.0 (macintosh; intel mac os x 10_10_4) applewebkit/537.36 (khtml, like gecko) chrome/44.0.2403.157 safari/537.36
+mozilla/5.0 (windows nt 6.3; win64; x64; trident/7.0; masmjs; rv:11.0) like gecko
+mozilla/5.0 (windows nt 6.2; rv:35.0) gecko/20100101 firefox/35.0
+mozilla/5.0 (windows nt 6.1; win64; x64; rv:35.0) gecko/20100101 firefox/35.0
+mozilla/4.0 (compatible; msie 8.0; windows nt 5.1; trident/4.0; .net clr 1.1.4322; .net clr 2.0.50727; .net clr 3.0.4506.2152; .net clr 3.5.30729; .net4.0c)
+mozilla/5.0 (x11; linux i686) applewebkit/537.36 (khtml, like gecko) ubuntu chromium/43.0.2357.130 chrome/43.0.2357.130 safari/537.36
+mozilla/5.0 (macintosh; intel mac os x 10.7; rv:37.0) gecko/20100101 firefox/37.0
+mozilla/5.0 (windows nt 10.0; wow64) applewebkit/537.36 (khtml, like gecko) dragon/44.5.7.268 chrome/44.0.2403.125 safari/537.36
+mozilla/5.0 (macintosh; intel mac os x 10_10_0) applewebkit/537.36 (khtml, like gecko) chrome/39.0.2171.95 safari/537.36
+mozilla/5.0 (linux; android 4.4.2; rct6203w46 build/kot49h) applewebkit/537.36 (khtml, like gecko) chrome/44.0.2403.133 safari/537.36
+mozilla/5.0 (windows nt 6.2) applewebkit/537.36 (khtml, like gecko) chrome/44.0.2403.155 safari/537.36
+mozilla/5.0 (macintosh; intel mac os x 10_10_4) applewebkit/537.36 (khtml, like gecko) chrome/42.0.2311.152 safari/537.36
+mozilla/5.0 (macintosh; intel mac os x 10_6_8) applewebkit/537.36 (khtml, like gecko) chrome/44.0.2403.157 safari/537.36
+mozilla/5.0 (macintosh; intel mac os x 10_8_5) applewebkit/600.7.12 (khtml, like gecko) version/6.2.7 safari/537.85.16
+mozilla/5.0 (windows nt 6.2; wow64; rv:39.0) gecko/20100101 firefox/39.0
+mozilla/5.0 (linux; android 5.0.2; sgh-t679 build/lrx22g) applewebkit/537.36 (khtml, like gecko) version/4.0 chrome/37.0.0.0 mobile safari/537.36
+mozilla/5.0 (x11; linux x86_64) applewebkit/537.36 (khtml, like gecko) chrome/44.0.2403.155 safari/537.36
+mozilla/5.0 (macintosh; intel mac os x 10.6; rv:37.0) gecko/20100101 firefox/37.0
+mozilla/5.0 (linux; android 5.0.2; xt1068 build/lxb22.46-28) applewebkit/537.36 (khtml, like gecko) chrome/41.0.2272.81 mobile safari/537.36 opr/28.0.1764.90386
+samsung-gt-e2252/e2252ddnc1 netfront/4.2 profile/midp-2.0 configuration/cldc-1.1
+mozilla/5.0 (macintosh; intel mac os x 10.6; rv:36.0) gecko/20100101 firefox/36.0
+mozilla/5.0 (x11; linux i686 (x86_64)) applewebkit/537.36 (khtml, like gecko) chrome/44.0.2403.157 safari/537.36
+mozilla/5.0 (compatible) feedfetcher-google;(+http://www.google.com/feedfetcher.html)
+mozilla/4.0 (compatible; msie 8.0; windows nt 6.1; trident/4.0; slcc2; .net clr 2.0.50727; .net clr 3.5.30729; .net clr 3.0.30729; media center pc 6.0; .net4.0c; .net4.0e; mcafee; infopath.3)
+mozilla/5.0 (windows nt 6.1) applewebkit/537.36 (khtml, like gecko) chrome/45.0.2453.0 safari/537.36
+mozilla/5.0 (windows nt 6.1; wow64; trident/7.0; rv:11.0)
+mozilla/5.0 (iphone; cpu iphone os 8_4_1 like mac os x) applewebkit/600.1.4 (khtml, like gecko) gsa/7.0.55539 mobile/12h321 safari/600.1.4
+mozilla/5.0 (macintosh; intel mac os x 10_9_5) applewebkit/600.6.3 (khtml, like gecko) version/7.1.6 safari/537.85.15
+mozilla/5.0 (compatible, msie 11, windows nt 6.3; trident/7.0; rv:11.0) like gecko
+mozilla/5.0 (macintosh; intel mac os x 10_10_4) applewebkit/537.36 (khtml, like gecko) chrome/44.0.2403.130 safari/537.36
+mozilla/5.0 (linux; android 5.1.1; c2004 build/lmy48g; wv) applewebkit/537.36 (khtml, like gecko) version/4.0 chrome/44.0.2403.117 mobile safari/537.36
+mozilla/5.0 (windows nt 6.1; rv:40.0) gecko/20100101 firefox/40.0
+mozilla/5.0 (macintosh; intel mac os x 10_9_3) applewebkit/537.75.14 (khtml, like gecko) version/7.0.3 safari/e7fbaf
+mozilla/5.0 (windows nt 6.1; wow64; rv:27.0) gecko/20100101 firefox/27.0
+mozilla/5.0 (compatible; msie 10.0; windows nt 6.2; wow64; trident/6.0)
+mozilla/5.0 (macintosh; intel mac os x 10_8_5) applewebkit/537.36 (khtml, like gecko) chrome/44.0.2403.155 safari/537.36
+mozilla/5.0 (linux; u; android 4.2.2; en-us; gt-n5110 build/jdq39) applewebkit/537.16 (khtml, like gecko) version/4.0 safari/537.16
+mozilla/5.0 (x11; ubuntu; linux x86_64; rv:39.0) gecko/20100101 firefox/39.0
+mozilla/5.0 (linux; android 5.1.1; lg-h345 build/lmy47v) applewebkit/537.36 (khtml, like gecko) version/4.0 chrome/38.0.2125.102 mobile safari/537.36
+mozilla/5.0 (linux; u; android 4.4.4; en-us; d2212 build/18.5.b.0.26) applewebkit/534.30 (khtml, like gecko) version/4.0 safari/534.30
+mozilla/5.0 (windows nt 6.3; wow64; trident/7.0; magwjs; rv:11.0) like gecko
+mozilla/5.0 (windows nt 6.3; win64; x64; trident/7.0; magwjs; rv:11.0) like gecko
+mozilla/5.0 (linux; android 5.1.1; lg-h345 build/lmy47v) applewebkit/537.36 (khtml, like gecko) chrome/44.0.2403.133 mobile safari/537.36
+mozilla/5.0 (macintosh; intel mac os x 10_9_5) applewebkit/537.78.2 (khtml, like gecko) version/7.0.6 safari/537.78.2
+mozilla/5.0 (android; mobile; rv:39.0) gecko/39.0 firefox/39.0
+mozilla/5.0 (windows nt 10.0; win64; x64) applewebkit/537.36 (khtml, like gecko) chrome/46.0.2489.0 safari/537.36
+mozilla/5.0 (linux; u; android 4.4.2; en-us; gt-n5110 build/jdq39) applewebkit/537.16 (khtml, like gecko) version/4.0 safari/537.16
+mozilla/5.0 (linux; android 5.1.1; lg-h345 build/lmy47v) applewebkit/537.36 (khtml, like gecko) chrome/43.0.2357.78 mobile safari/537.36 opr/30.0.1856.93524
+mozilla/4.0 (compatible; msie 8.0; windows nt 5.1; trident/4.0)
+mozilla/5.0 (linux; android; 4.1.2; gt-i9100 build/000000) applewebkit/537.22 (khtml, like gecko) chrome/25.0.1234.12 mobile safari/537.22 opr/14.0.123.123
+opera/9.80 (android; opera mini/10.0.1884/37.6334; u; en) presto/2.12.423 version/12.16
+mozilla/5.0 (mobile; windows phone 8.1; android 4.0; arm; trident/7.0; touch; rv:11.0; iemobile/11.0; nokia; lumia 530 dual sim) like iphone os 7_0_3 mac os x applewebkit/537 (khtml, like gecko) mobile safari/537
+mediapartners-google
+mozilla/5.0 (compatible; msie 9.0; windows nt 6.0; trident/5.0)
+mozilla/5.0 (x11; u; linux x86_64; ko-kore-us) applewebkit/537.36 (khtml, like gecko)  chrome/30.0.1599.114 safari/537.36 puffin/4.5.0it
+mozilla/5.0 (macintosh; intel mac os x 10_6_8) applewebkit/537.36 (khtml, like gecko) chrome/44.0.2403.155 safari/537.36
+mozilla/5.0 (compatible; msie 9.0; windows nt 6.0; wow64; trident/5.0)
+mozilla/5.0 (windows nt 5.1) applewebkit/537.36 (khtml, like gecko) chrome/44.0.2403.155 safari/537.36 opr/31.0.1889.174
+mozilla/5.0 (windows nt 6.1) applewebkit/537.36 (khtml, like gecko) chrome/44.0.2403.157 safari/537.36
+mozilla/5.0 (macintosh; intel mac os x 10.6; rv:40.0) gecko/20100101 firefox/40.0
+mozilla/5.0 (macintosh; intel mac os x 10.9; rv:39.0) gecko/20100101 firefox/39.0
+mozilla/5.0 (macintosh; intel mac os x 10_7_2) applewebkit/534.51.22 (khtml, like gecko) version/5.1.1 safari/534.51.22
+mozilla/5.0 (iphone; cpu iphone os 8_3 like mac os x) applewebkit/600.1.4 (khtml, like gecko) version/8.0 mobile/12f70 safari/600.1.4 (compatible; googlebot/2.1; +http://www.google.com/bot.html)
+mozilla/5.0 (macintosh; intel mac os x 10_10_4) applewebkit/600.7.12 (khtml, like gecko)
+mozilla/5.0 (windows nt 5.1; rv:39.0) gecko/20100101 firefox/39.0
+pinterest/0.2 (+http://www.pinterest.com/)
+mozilla/5.0 (mobile; windows phone 8.1; android 4.0; arm; trident/7.0; touch; rv:11.0; iemobile/11.0; microsoft; lumia 640 lte; anz1074) like iphone os 7_0_3 mac os x applewebkit/537 (khtml, like gecko) mobile safari/537
+mozilla/5.0 (x11; linux x86_64) applewebkit/537.36 (khtml, like gecko) chrome/45.0.2454.26 safari/537.36
+googlebot/2.1 (+http://www.googlebot.com/bot.html)
+mozilla/5.0 (windows nt 6.1) applewebkit/537.36 (khtml, like gecko) coc_coc_browser/47.0 chrome/41.0.2272.127 safari/537.36
+mozilla/5.0 (compatible; duckduckgo-favicons-bot/1.0; +http://duckduckgo.com)
+mozilla/5.0 (iphone; cpu iphone os 8_1_2 like mac os x) applewebkit/600.1.4 (khtml, like gecko) version/8.0 mobile/12b440 safari/600.1.4
+mozilla/5.0 (mobile; windows phone 8.1; android 4.0; arm; trident/7.0; touch; rv:11.0; iemobile/11.0; microsoft; lumia 640 lte) like iphone os 7_0_3 mac os x applewebkit/537 (khtml, like gecko) mobile safari/537
+mozilla/5.0 (windows nt 10.0; wow64; trident/7.0; touch; rv:11.0) like gecko
+mozilla/4.0 (compatible; msie 7.0; windows nt 5.1; trident/4.0; .net clr 2.0.50727; .net clr 3.0.4506.2152; .net clr 3.5.30729)
+mozilla/5.0 (macintosh; intel mac os x 10_9_5) applewebkit/600.7.12 (khtml, like gecko) version/7.1.7 safari/537.85.16
+mozilla/5.0 (macintosh; u; intel mac os x 10_6_3; it-it) applewebkit/531.21.11 (khtml, like gecko) version/4.0.4 safari/531.21.10
+mozilla/5.0 (linux; u; android 4.2; en-us; sdk build/mr1) applewebkit/535.19 (khtml, like gecko) version/4.2 safari/535.19
+mozilla/5.0 (android; tablet; rv:40.0) gecko/40.0 firefox/40.0
+mozilla/5.0 (windows phone 10.0; android 4.2.1; nokia; lumia 730 dual sim) applewebkit/537.36 (khtml, like gecko) chrome/42.0.2311.135 mobile safari/537.36 edge/12.10166
+mozilla/4.0 (compatible; msie 7.0; windows nt 6.1; win64; x64; trident/7.0; .net clr 2.0.50727; slcc2; .net clr 3.5.30729; .net clr 3.0.30729; media center pc 6.0; .net4.0c; .net4.0e; tablet pc 2.0; gwx:reserved)
+mozilla/5.0 (macintosh; intel mac os x 10_90) applewebkit/600.2.5 (khtml, like gecko) version/8.0.2 safari/600.2.5
+docomo/2.0 n905i(c100;tb;w24h16) (compatible; googlebot-mobile/2.1; +http://www.google.com/bot.html)
+samsung-sgh-e250/1.0 profile/midp-2.0 configuration/cldc-1.1 up.browser/6.2.3.3.c.1.101 (gui) mmp/2.0 (compatible; googlebot-mobile/2.1; +http://www.google.com/bot.html)
+mozilla/5.0 (macintosh; u; intel mac os x 10_5_8; en-us) applewebkit/532.5 (khtml, like gecko) chrome/4.0.249.0 safari/532.5
+mozilla/5.0 (x11; freebsd amd64; rv:27.0) gecko/20100101 firefox/27.0
+mozilla/4.0 (compatible; msie 7.0; windows nt 6.0; slcc1; .net clr 2.0.50727; media center pc 5.0; ms-rtc lm 8; .net clr 3.5.30729; .net clr 3.0.30618; .net4.0c)
+mozilla/5.0 (windows nt 6.1; wow64; rv:34.0) gecko/20100101 firefox/34.0
+mozilla/5.0 (windows nt 6.1; wow64) applewebkit/537.36 (khtml, like gecko) chrome/31.0.1650.63 safari/537.36 se 2.x metasr 1.0
+mozilla/5.0 (macintosh; intel mac os x 10_10_1) applewebkit/537.36 (khtml, like gecko) chrome/41.0.2227.1 safari/537.36
+mozilla/5.0 (windows nt 6.1) applewebkit/537.36 (khtml, like gecko) chrome/44.0.2403.155 safari/537.36 opr/31.0.1889.174
+mozilla/5.0 (windows nt 6.1; wow64) applewebkit/537.36 (khtml, like gecko) chrome/45.0.2454.46 safari/537.36
+mozilla/4.0 (compatible; msie 7.0; windows nt 6.0; gtb7.5; slcc1; .net clr 2.0.50727; media center pc 5.0; .net clr 3.5.30729; .net clr 3.0.30618)
+mozilla/5.0 (windows nt 6.3; arm; trident/7.0; touch; rv:11.0) like gecko
+mozilla/4.0 (compatible; msie 8.0; windows nt 6.1; win64; x64; trident/4.0; .net clr 2.0.50727; slcc2; .net clr 3.5.30729; .net clr 3.0.30729; media center pc 6.0)
+mozilla/5.0 (windows nt 6.3; wow64; trident/7.0; lcjb; rv:11.0) like gecko
+mozilla/5.0 (linux; u; android 4.4.2; en-us; z520 build/kot49h) applewebkit/534.30 (khtml, like gecko) version/4.0 mobile safari/534.30;
+mozilla/5.0 (linux; android 5.0.1; lg-h440n build/lrx21y) applewebkit/537.36 (khtml, like gecko) version/4.0 chrome/38.0.2125.102 mobile safari/537.36
+mozilla/4.0 (compatible; msie 8.0; windows nt 6.1; trident/4.0; slcc2; .net clr 2.0.50727; .net clr 3.5.30729; .net clr 3.0.30729; media center pc 6.0)
+mozilla/5.0 (windows nt 6.1; wow64) applewebkit/537.36 (khtml, like gecko) chrome/44.0.2403.155 safari/537.36 opr/31.0.1889.174
+mozilla/5.0 (windows nt 6.3; wow64) applewebkit/537.36 (khtml, like gecko) chrome/44.0.2403.155 safari/537.36 opr/31.0.1889.174
+mozilla/4.0 (compatible; msie 5.01; windows nt 5.0)
+mozilla/5.0 (windows nt 5.0; rv:12.0) gecko/20100101 firefox/12.0
+opera/9.80 (windows nt 5.1; u; en) presto/2.6.30 version/10.63
+mozilla/4.0 (compatible; msie 6.0; windows nt 5.0; wow64; trident/4.0; slcc1)
+mozilla/5.0 (macintosh; intel mac os x 10_10_5) applewebkit/537.36 (khtml, like gecko) chrome/44.0.2403.157 safari/537.36
+mozilla/5.0 (x11; fedora; linux x86_64; rv:40.0) gecko/20100101 firefox/40.0
+mozilla/5.0 (windows; u; windows nt 6.1; en-us) applewebkit/534.16 (khtml, like gecko) chrome/10.0.648.151 safari/534.16
+mozilla/5.0 (windows nt 6.1; wow64; rv:36.0) gecko/20100101 firefox/36.0 seamonkey/2.33.1
+mozilla/4.0 (compatible; msie 7.0; windows nt 5.1; .net clr 2.0.50727)
+mozilla/5.0 (windows nt 6.3; wow64; rv:35.0) gecko/20100101 firefox/35.0
+gigablastopensource/1.0
+mozilla/5.0 (windows; u; windows nt 5.1; en-us; rv:1.8.1.20) gecko/20081217 firefox/2.0.0.20
+mozilla/5.0 (windows nt 6.3; wow64; rv:34.0) gecko/20100101 firefox/34.0
+mozilla/5.0 (mobile; windows phone 8.1; android 4.0; arm; trident/7.0; touch; rv:11.0; iemobile/11.0; nokia; lumia 630) like iphone os 7_0_3 mac os x applewebkit/537 (khtml, like gecko) mobile safari/537
+mozilla/5.0 (windows nt 5.1) applewebkit/537.36 (khtml, like gecko) dragon/43.3.3.185 chrome/43.0.2357.81 safari/537.36
+mozilla/4.0 (compatible; msie 7.0; windows nt 6.0; gtb7.5; slcc1; .net clr 2.0.50727; media center pc 5.1; .net clr 3.5.21022; .net clr 3.5.30729; .net clr 3.0.30618; .net4.0c)
+mozilla/5.0 (macintosh; intel mac os x 10_10_3) applewebkit/600.5.17 (khtml, like gecko) version/8.0.5 safari/600.5.17
+mozilla/5.0 (macintosh; intel mac os x 10_10; rv:44.0) gecko/20100101 firefox/44.0
+mozilla/5.0 (windows nt 10.0; win64; x64) applewebkit/537.36 (khtml, like gecko) chrome/42.0.2311.135 safari/537.36 edge/12.10525
+mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+mozilla/5.0 (ipad; cpu os 8_0_2 like mac os x) applewebkit/600.1.4 (khtml like gecko) mobile/12a405 version/7.0 safari/9537.53
+mozilla/5.0 (x11; linux i686; rv:38.0) gecko/20100101 firefox/38.0
+mozilla/5.0 (linux; u; android 2.1-update1; ro-ro; u8300 build/ere27) applewebkit/530.17 (khtml, like gecko) version/4.0 mobile safari/530.17
+mozilla/5.0 (linux; u; android 4.3; ko-kr; samsung-sgh-i317 build/jss15j) applewebkit/534.30 (khtml, like gecko) version/4.0 mobile safari/534.30
+mozilla/5.0 (x11; linux i686) applewebkit/537.36 (khtml, like gecko) chrome/31.0.1650.57 safari/537.36
+mozilla/5.0 (iphone; u; cpu iphone os 4_3_2 like mac os x; en-us) applewebkit/533.17.9 (khtml, like gecko) version/5.0.2 mobile/8h7 safari/6533.18.5
+samsung-gt-e2230/1.0 openwave/6.2.3 profile/midp-2.0 configuration/cldc-1.1 up.browser/6.2.3.3.c.1.101 (gui) mmp/2.0
+mozilla/5.0 (windows nt 6.2; wow64; rv:40.0) gecko/20100101 firefox/40.0
+mozilla/5.0 (windows nt 6.1; wow64) skypeuripreview preview/0.5
+mozilla/5.0 (x11; ubuntu; linux i686; rv:11.0) gecko/20100101 firefox/11.0
+mozilla/5.0 (linux; u; android 4.3; en-us; sgh-t999 build/jss15j) applewebkit/534.30 (khtml, like gecko) version/4.0 mobile safari/534.30
+mozilla/5.0 (windows nt 6.1; rv:25.6) gecko/20150723 firefox/31.9 palemoon/25.6.0
+mozilla/4.0 (compatible; msie 7.0; windows nt 6.1; trident/4.0; slcc2; .net clr 2.0.50727; .net clr 3.5.30729; .net clr 3.0.30729)
+mozilla/5.0 (mobile; windows phone 8.1; android 4.0; arm; trident/7.0; touch; rv:11.0; iemobile/11.0; microsoft; lumia 540 dual sim) like iphone os 7_0_3 mac os x applewebkit/537 (khtml, like gecko) mobile safari/537
+mozilla/5.0 (windows nt 6.1; wow64) applewebkit/537.36 (khtml, like gecko) chrome/40.0.2214.111 safari/537.36
+mozilla/5.0 (x11; linux i686; rv:40.0) gecko/20100101 firefox/40.0
+mozilla/5.0 (windows nt 10.0) applewebkit/537.36 (khtml, like gecko) chrome/44.0.2403.157 safari/537.36
+mozilla/5.0 (mobile; windows phone 8.1; android 4.0; arm; trident/7.0; touch; rv:11.0; iemobile/11.0; nokia; lumia 920) like iphone os 7_0_3 mac os x applewebkit/537 (khtml, like gecko) mobile safari/537
+mozilla/5.0 (windows nt 5.1; rv:40.0) gecko/20100101 firefox/40.0
+mozilla/5.0 (ipad; u; cpu os 3_2 like mac os x; en-us) applewebkit/531.21.10 (khtml, like gecko) version/4.0.4 mobile/7b334b safari/531.21.10
+mozilla/5.0 (iphone; cpu iphone os 8_0_2 like mac os x) applewebkit/600.1.4 (khtml, like gecko) version/8.0 mobile safari/600.1.4
+mozilla/5.0 (windows nt 6.1; wow64) applewebkit/537.36 (khtml, like gecko) chrome/43.0.2357.134 safari/537.36
+mozilla/5.0 (windows nt 6.1; rv:41.0) gecko/20100101 firefox/41.0
+mozilla/5.0 (ipad; cpu os 5_1 like mac os x) applewebkit/534.46 (khtml, like gecko ) version/5.1 mobile/9b176 safari/7534.48.3
+mozilla/5.0 (macintosh; intel mac os x 10_10_2) applewebkit/537.36 (khtml, like gecko) chrome/43.0.2357.134 safari/537.36
+mozilla/5.0 (windows nt 6.1) applewebkit/537.36 (khtml, like gecko) chrome/44.0.2403.18 safari/537.36
+mozilla/5.0 (macintosh; intel mac os x 10_10_2) applewebkit/600.3.18 (khtml, like gecko) version/8.0.4 safari/600.4.10
+mozilla/5.0 (iphone; cpu iphone os 7_1_2 like mac os x) applewebkit/537.51.2 (khtml like gecko) version/7.0 mobile/11d257 safari/9537.53
+mozilla/5.0 (windows nt 6.1; wow64) applewebkit/537.36 (khtml, like gecko) coc_coc_browser/49.0.146 chrome/43.0.2357.146 safari/537.36
+mozilla/5.0 (ipad; cpu os 8_4 like mac os x) applewebkit/600.1.4 (khtml, like gecko) mobile/12h143
+mozilla/5.0 (macintosh; intel mac os x 10_7_5) applewebkit/535.2 (khtml, like gecko) chrome/15.0.874.102 safari/535.2
+mozilla/5.0 (iphone; u; cpu iphone os 4_3 like mac os x; de-de) applewebkit/533.17.9 (khtml, like gecko) mobile/8f190
+mozilla/5.0 (linux; android 4.4.4; nexus 7 build/ktu84p) applewebkit/537.36 (khtml like gecko) chrome/36.0.1985.135 safari/537.36
+mozilla/5.0 (linux; android 4.4.4; w6s build/ktu84p) applewebkit/537.36 (khtml, like gecko) version/4.0 chrome/33.0.0.0 safari/537.36
+opera/9.80 (j2me/midp; opera mini/9.80 (s60; symbos; opera mobi/23.348; u; en) presto/2.5.25 version/10.54
+mozilla/5.0 (linux; u; android 4.0.3; de-ch; htc sensation build/iml74k) applewebkit/534.30 (khtml, like gecko) version/4.0 mobile safari/534.30
+mozilla/5.0 (x11; linux x86_64) applewebkit/537.36 (khtml, like gecko) chrome/39.0.2171.99 safari/537.36
+mozilla/5.0 (windows nt 6.1; wow64) applewebkit/537.36 (khtml, like gecko) chrome/39.0.2171.71 safari/537.36
+mozilla/5.0 (bb10; kbd) applewebkit/537.35+ (khtml, like gecko) version/10.3.1.2576 mobile safari/537.35+
+mozilla/5.0 (x11; linux i686; rv:25.6) gecko/20150723 palemoon/25.6.0
+mozilla/5.0 (windows nt 6.3; wow64; rv:38.0) gecko/20100101 firefox/38.0
+mozilla/5.0 (windows nt 10.0; rv:40.0) gecko/20100101 firefox/40.0
+mozilla/5.0 (compatible; msie 9.0; windows nt 6.1; trident/5.0; xbox)
+mozilla/5.0 (compatible; msie 9.0; windows phone os 7.5; trident/5.0; iemobile/9.0; xbox)
+mozilla/5.0 (windows nt 6.1; win64; x64; trident/7.0; rv:11.0) like gecko
+mozilla/5.0 (linux; android 4.4.2; sc7 pro hd build/kot49h) applewebkit/537.36 (khtml, like gecko) version/4.0 chrome/30.0.0.0 safari/537.36
+mozilla/5.0 (linux; u; android 3.0.1; fr-fr; a500 build/hri66) applewebkit/534.13 (khtml, like gecko) version/4.0 safari/534.13
+mozilla/5.0 (macintosh; intel mac os x 10.6; rv:39.0) gecko/20100101 firefox/39.0
+mozilla/5.0 (x11; linux x86_64; rv:39.0) gecko/20100101 firefox/39.0
+mozilla/5.0 (mobile; windows phone 8.1; android 4.0; arm; trident/7.0; touch; rv:11.0; iemobile/11.0; nokia; lumia 930) like iphone os 7_0_3 mac os x applewebkit/537 (khtml, like gecko) mobile safari/537
+mozilla/5.0 (windows nt 6.2; rv:39.0) gecko/20100101 firefox/39.0
+mozilla/5.0 (windows; u; windows nt 6.0; cs; rv:1.9.1.1) gecko/20090715 firefox/3.5.1 (.net clr 3.5.30729)
+mozilla/4.0 (compatible; msie 8.0; windows nt 6.0; wow64; trident/4.0; slcc1; .net clr 2.0.50727; media center pc 5.0; .net clr 3.5.21022; .net clr 3.5.30729; .net clr 3.0.30618; mddc; infopath.2; .net4.0c)
+mozilla/4.0 (compatible; msie 7.0; windows nt 6.0; slcc1; .net clr 2.0.50727; media center pc 5.0; .net clr 3.5.30729; .net clr 3.0.30618)
+mozilla/4.0 (compatible; msie 8.0; windows nt 6.1; trident/4.0; slcc2; .net clr 2.0.50727; .net clr 3.5.30729; .net clr 3.0.30729; media center pc 6.0; infopath.2)
+mozilla/5.0 (macintosh; intel mac os x 10.7; rv:39.0) gecko/20100101 firefox/39.0
+mozilla/5.0 (windows nt 6.3) applewebkit/537.36 (khtml, like gecko) chrome/44.0.2403.155 safari/537.36
+mozilla/5.0 (macintosh; intel mac os x 10_8_5) applewebkit/537.78.2 (khtml, like gecko) version/6.1.6 safari/537.78.2
+opera/9.80 (j2me/midp; opera mini/4.0.13574/36.2596; u; en) presto/2.12.423 version/12.16
+sonyericssonk630i/r1fa browser/netfront/3.4 profile/midp-2.1 configuration/cldc-1.1
+mozilla/5.0 (windows nt 6.1; wow64) applewebkit/537.17 (khtml, like gecko) chrome/24.0.1312.60 safari/537.17 airbrowse/6.0.0.4
+mozilla/5.0 (linux; u; android 4.2.2; fi-fi; sm-g350 build/jdq39) applewebkit/534.30 (khtml, like gecko) version/4.0 mobile safari/534.30
+mozilla/5.0 (windows nt 6.1; rv:39.0) gecko/20100101 firefox/39.0
+mozilla/5.0 (macintosh; intel mac os x 10_10_3) applewebkit/537.36 (khtml, like gecko) chrome/44.0.2403.157 safari/537.36
+mozilla/5.0 (x11; linux x86_64) applewebkit/536.5 (khtml, like gecko) chrome/19.0.1084.9 safari/536.5
+mozilla/5.0 (windows; u; windows nt 6.1; en-us; valve steam gameoverlay/1440016726; ) applewebkit/537.36 (khtml, like gecko) chrome/43.0.2357.81 safari/537.36
+mozilla/5.0 (ipad; cpu os 7_1_1 like mac os x) applewebkit/537.51.2 (khtml, like gecko) mobile/11d201
+mozilla/5.0 (mobile; windows phone 8.1; android 4.0; arm; trident/7.0; touch; rv:11.0; iemobile/11.0; microsoft; lumia 435) like iphone os 7_0_3 mac os x applewebkit/537 (khtml, like gecko) mobile safari/537
+lynx/2.8.9dev.1 libwww-fm/2.14 ssl-mm/1.4.1 gnutls/3.2.16
+mozilla/5.0 (windows nt 6.2; wow64) applewebkit/537.36 (khtml, like gecko) chrome/29.0.1547.57 safari/537.36
+mozilla/5.0 (mobile; windows phone 8.1; android 4.0; arm; trident/7.0; touch; rv:11.0; iemobile/11.0; microsoft; lumia 535 dual sim) like iphone os 7_0_3 mac os x applewebkit/537 (khtml, like gecko) mobile safari/537
+mozilla/5.0 (x11; linux i686; rv:38.0) gecko/20100101 firefox/38.0 iceweasel/38.2.0
+mozilla/5.0 (windows nt 6.1) applewebkit/537.36 (khtml, like gecko) chrome/41.0.2228.0 safari/537.36
+mozilla/5.0 (macintosh; intel mac os x 10_9_0) applewebkit/537.36 (khtml, like gecko) chrome/29.0.1547.57 safari/537.36
+mozilla/5.0 (windows nt 6.3; rv:39.0) gecko/20100101 firefox/39.0
+mozilla/4.0 (compatible; msie 8.0; windows nt 5.1; trident/4.0; .net clr 2.0.50727; .net clr 3.0.4506.2152; .net clr 3.5.30729; .net4.0c; .net4.0e; infopath.3; asktbptv/5.11.3.15590)
+mozilla/5.0 (x11; linux x86_64; rv:29.0) gecko/20100101 firefox/29.0
+mozilla/5.0 (linux; android 4.1.1; nexus 7 build/jro03d) applewebkit/535.19 (khtml, like gecko) chrome/18.0.1025.166  safari/535.19
+mozilla/4.0 (compatible; msie 7.0; windows nt 6.2; wow64; trident/7.0; .net4.0e; .net4.0c; tablet pc 2.0)
+opera/9.80 (windows phone; opera mini/8.1.0/37.6334; u; en) presto/2.12.423 version/12.16
+mozilla/5.0 (windows nt 6.1; wow64) applewebkit/537.36 (khtml, like gecko) chrome/42.0.2311.90 safari/537.36
+mozilla/5.0 (ipad; cpu os 8_4_1 like mac os x) applewebkit/600.1.4 (khtml, like gecko) version/5.1 mobile/12h321 safari/7600.1.4
+mozilla/5.0 (compatible; msie 9.0; windows nt 6.3; wow64; trident/7.0; asu2js)
+mozilla/5.0 (linux; android 4.4.2; en-gb; samsung sm-t330 build/kot49h) applewebkit/537.36 (khtml, like gecko) version/1.5 chrome/28.0.1500.94 safari/537.36
+mozilla/4.0 (compatible; msie 8.0; windows nt 6.1; trident/4.0; slcc2; .net clr 2.0.50727; .net clr 3.5.30729; .net clr 3.0.30729; media center pc 6.0; tablet pc 2.0)
+mozilla/5.0 (windows nt 6.1) applewebkit/537.36 (khtml, like gecko) chrome/31.0.1650.48 safari/537.36
+mozilla/5.0 (windows nt 6.3; rv:36.0) gecko/20100101 firefox/36.0
+mozilla/5.0 (windows nt 6.1; wow64) applewebkit/537.1 (khtml, like gecko) chrome/21.0.1180.0 aol/9.7 aolbuild/4343.3045.us safari/537.1
+mozilla/5.0 (linux; u; android 4.3; en-us; sdk build/mr1) applewebkit/536.23 (khtml, like gecko) version/4.3 mobile safari/536.23
+mozilla/5.0 (windows nt 6.3; wow64) applewebkit/537.36 (khtml, like gecko) chrome/40.0.2214.91 safari/537.36
+mozilla/5.0 (windows nt 6.0; wow64) applewebkit/537.36 (khtml, like gecko) chrome/45.0.2454.46 safari/537.36
+mozilla/5.0 (new nintendo 3ds like iphone) applewebkit/536.30 (khtml, like gecko) nx/3.0.0.5.15 mobile nintendobrowser/1.3.10126.eu
+mozilla/5.0 (windows nt 6.1; wow64) applewebkit/537.36 (khtml, like gecko) chrome/44.0.2403.130 safari/537.36
+mozilla/5.0 (windows phone 8.1; arm; trident/8.0; touch; webview/2.0; rv:11.0; iemobile/11.0; nokia; lumia 929) like gecko
+mozilla/5.0 (linux; u) applewebkit/537.4 (khtml, like gecko) chrome/22.0.1229.79 safari/537.4
+mozilla/5.0 (ipad; u; cpu os 3_2 like mac os x; en-us) applewebkit/531.21.10 (khtml, like gecko) version/4.0.4 mobile/7b367 safari/531.21.10
+mozilla/5.0 (windows nt the given key was not present in the dictionary.; wow64; rv:39.0) gecko/20100101 firefox/39.0
+mozilla/4.0 (compatible; msie 8.0; windows nt 6.1; trident/4.0; chromeframe/26.0.1410.64; slcc2; .net clr 2.0.50727; .net clr 3.5.30729; .net clr 3.0.30729; media center pc 6.0; infopath.3; .net4.0c; .net4.0e)
+mozilla/5.0 (mobile; windows phone 8.1; android 4.0; arm; trident/7.0; touch; rv:11.0; iemobile/11.0; nokia; lumia 1320) like iphone os 7_0_3 mac os x applewebkit/537 (khtml, like gecko) mobile safari/537
+mozilla/4.0 (compatible; msie 7.0; windows nt 6.1; trident/7.0; slcc2; .net clr 2.0.50727; .net clr 3.5.30729; .net clr 3.0.30729; media center pc 6.0; .net4.0c; infopath.2; .net4.0e)
+mozilla/5.0 (windows nt 6.3; win64; x64; trident/7.0; touch; rv:11.0) like gecko
+mozilla/5.0 (linux; android 5.1; xt1025 build/lpc23.13-34.5) applewebkit/537.36 (khtml, like gecko) chrome/42.0.2311.108 mobile safari/537.36
+mozilla/5.0 (windows nt 10.0; win64; x64) applewebkit/537.36 (khtml, like gecko) chrome/44.0.2403.157 safari/537.36
+mozilla/5.0 (linux; u; android 2.3.6; en-us; sch-i510 4g build/fp8) applewebkit/533.1 (khtml, like gecko) version/4.0 mobile safari/533.1
+mozilla/5.0 (macintosh; intel mac os x 10_7_5) applewebkit/536.30.1 (khtml, like gecko) version/6.0.5 safari/536.30.1
+mozilla/5.0 (windows nt 10.0; win64; x64; rv:31.0) gecko/20100101 /31.0
+mozilla/5.0 (ipad; cpu os 8_4_1 like mac os x) applewebkit/600.1.4 (khtml, like gecko) crios/44.0.2403.67 mobile/12h321 safari/600.1.4
+mozilla/5.0 (windows nt 6.1; win64; x64) applewebkit/537.36 (khtml, like gecko) chrome/46.0.2486.0 safari/537.36
+mozilla/5.0 (linux; u; android 4.2.2; en-us; maxtab q8 build/jdq39) applewebkit/534.30 (khtml, like gecko) version/4.0 safari/534.30
+mozilla/5.0 (x11; linux x86_64) applewebkit/537.36 (khtml, like gecko) chrome/45.0.2454.46 safari/537.36
+mozilla/5.0 (windows nt 6.3; wow64) applewebkit/537.36 (khtml, like gecko) chrome/43.0.2357.124 safari/537.36
+mozilla/5.0 (ipad; cpu os 8_1_2 like mac os x) applewebkit/600.1.4 (khtml, like gecko) version/8.0 mobile/12b440 safari/600.1.4
+mozilla/4.0 (compatible; msie 7.0; windows nt 6.1; trident/7.0; slcc2; .net clr 2.0.50727; .net clr 3.5.30729; .net clr 3.0.30729; media center pc 6.0; .net4.0c; .net4.0e; tablet pc 2.0)
+mozilla/5.0 (windows nt 6.1; rv:2.0b10) gecko/20110126 firefox/4.0b10
+mozilla/4.0 (compatible; msie 7.0; windows nt 6.2; wow64; trident/8.0; .net4.0c; .net4.0e; .net clr 2.0.50727; .net clr 3.0.30729; .net clr 3.5.30729; infopath.3)
+nerdybot
+mozilla/5.0 (x11; linux i686; rv:2.0b12pre) gecko/20110204 firefox/4.0b12pre
+mozilla/5.0 (windows nt 6.3; wow64; trident/7.0; touch; masmjs; rv:11.0) like gecko
+mozilla/5.0 (windows nt 6.1; win64; x64; rv:2.0b9pre) gecko/20101228 firefox/4.0b9pre
+mozilla/5.0 (windows nt 6.1; win64; x64; rv:2.0b8pre) gecko/20101128 firefox/4.0b8pre
+mozilla/5.0 (windows nt 10.0; win64; x64; rv:42.0) gecko/20100101 firefox/42.0
+mozilla/4.0 (compatible; msie 8.0; windows nt 6.1; wow64; trident/4.0; slcc2; .net clr 2.0.50727; .net clr 3.5.30729; .net clr 3.0.30729; media center pc 6.0; cpntdf; bri/1)
+mozilla/5.0 (x11; linux x86_64; rv:31.0) gecko/20100101 firefox/31.0 iceweasel/31.7.0
+mozilla/5.0 (compatible; msie 10.0; windows nt 6.1; trident/6.0)
+mozilla/5.0 (compatible; msie 10.0; windows nt 6.1; wow64; trident/7.0)
+mozilla/5.0 (macintosh; u; intel mac os x 10.5; fr; rv:1.9.2.15) gecko/20110303 firefox/3.6.15
+opera/9.80 (j2me/midp; opera mini/4.5.40312/37.6334; u; en) presto/2.12.423 version/12.16
+mozilla/4.0 (compatible; msie 8.0; windows nt 6.1; wow64; trident/4.0; slcc2; .net clr 2.0.50727; .net clr 3.5.30729; .net clr 3.0.30729; .net4.0c; .net4.0e; infopath.3; rctw)
+mozilla/5.0 (nintendo wiiu) applewebkit/536.30 (khtml, like gecko) nx/3.0.4.2.11 nintendobrowser/4.3.0.11224.us
+mozilla/5.0 (windows phone 10.0; android 4.2.1; nokia; lumia 730 dual sim) applewebkit/537.36 (khtml, like gecko) chrome/42.0.2311.135 mobile safari/537.36 edge/12.10512
+mozilla/5.0 (windows nt 6.3; wow64) applewebkit/537.36 (khtml, like gecko) chrome/41.0.2272.101 safari/537.36
+mozilla/5.0 (linux; u; android 4.1; en-us; sdk build/mr1) applewebkit/534.30 (khtml, like gecko) version/4.1 safari/534.30
+mozilla/4.0 (compatible; msie 8.0; windows nt 6.1; trident/4.0; slcc2; .net clr 2.0.50727; .net clr 3.5.30729; .net clr 3.0.30729; media center pc 6.0; .net4.0c)
+mozilla/5.0 (windows nt 10.0; wow64) applewebkit/537.36 (khtml, like gecko) dragon/43.3.3.185 chrome/43.0.2357.81 safari/537.36
+mozilla/5.0 (windows nt 10.0; wow64) applewebkit/537.36 (khtml, like gecko) chrome/43.0.2357.124 safari/537.36
+mozilla/5.0 (macintosh; intel mac os x 10_10_5) applewebkit/537.36 (khtml, like gecko) chrome/42.0.2311.152 safari/537.36
+mozilla/5.0 (compatible; msie 9.0; windows nt 6.0; trident/5.0; yie9)
+mozilla/5.0 (windows nt 6.2; wow64) applewebkit/537.36 (khtml, like gecko) chrome/44.0.2403.157 safari/537.36
+mozilla/5.0 (x11; linux x86_64) applewebkit/537.36 (khtml, like gecko) chrome/44.0.2403.155 safari/537.36 opr/31.0.1889.174
+mozilla/5.0 (x11; linux x86_64) applewebkit/534.24 (khtml, like gecko) chrome/11.0.696.34 safari/534.24
+mozilla/5.0 (windows nt 10.0; wow64) applewebkit/537.36 (khtml, like gecko) chrome/44.0.2403.125 safari/537.36
+mozilla/5.0 (windows nt 10.0; wow64) applewebkit/537.36 (khtml, like gecko) chrome/44.0.2403.155 ubrowser/5.4.4237.1024 safari/537.36
+mozilla/5.0 (ipod touch; cpu iphone os 8_0_2 like mac os x) applewebkit/600.1.4 (khtml, like gecko) version/8.0 mobile/12a405 safari/600.1.4
+mozilla/4.0 (compatible; msie 8.0; windows nt 6.1; wow64; trident/4.0; slcc2; .net clr 2.0.50727; .net clr 3.5.30729; .net clr 3.0.30729; media center pc 6.0)
+mozilla/5.0 (windows nt 10.0; wow64; rv:39.0) gecko/20100101 firefox/39.0
+mozilla/5.0 (linux; u; android 4.4.4; fi-fi; gt-i9305 build/ktu84p) applewebkit/534.30 (khtml, like gecko) version/4.0 mobile safari/534.30
+mozilla/5.0 (linux; u; android 2.3.6; tr-tr; lg-e400 build/grk39f) applewebkit/533.1 (khtml, like gecko) version/4.0 mobile safari/533.1 mms/lg-android-mms-v1.2
+mozilla/5.0 (windows nt 6.3; wow64) applewebkit/537.36 (khtml, like gecko) dragon/43.3.3.185 chrome/43.0.2357.81 safari/537.36
+mozilla/4.0 (compatible; msie 8.0; windows nt 5.1; trident/4.0; rrhso_bld1; .net clr 2.0.50727; .net clr 3.0.04506.648; .net clr 3.5.21022; .net clr 3.0.4506.2152; .net clr 3.5.30729; .net clr 1.1.4322; .net4.0c; rrhso_bld1)
+mozilla/5.0 (macintosh; u; intel mac os x 10.4; fr; rv:1.9.2.28) gecko/20120306 firefox/3.6.28
+mozilla/5.0 (compatible; msie 10.0; windows nt 6.2; win64; x64; trident/6.0)
+mozilla/4.0 (compatible; msie 7.0; windows nt 6.0; slcc1; .net clr 2.0.50727; media center pc 5.0; .net clr 3.5.30729; .net clr 3.0.30618; .net4.0c)
+mozilla/5.0 (windows nt 6.0) applewebkit/537.36 (khtml, like gecko) chrome/44.0.2403.157 safari/537.36
+mozilla/5.0 (windows nt 6.3) applewebkit/537.36 (khtml, like gecko) chrome/44.0.2403.155 safari/537.36 opr/31.0.1889.174
+mozilla/5.0 (macintosh; intel mac os x 10_9_5) applewebkit/537.36 (khtml, like gecko) chrome/44.0.2403.107 safari/537.36
+mozilla/5.0 (macintosh; intel mac os x 10_7_5) applewebkit/534.57.7 (khtml, like gecko) version/5.1.7 safari/534.57.7
+mozilla/5.0 (macintosh; intel mac os x 10_10_5) applewebkit/601.1.50 (khtml, like gecko) version/9.0 safari/601.1.50
+mozilla/5.0 (windows nt 6.1) applewebkit/537.36 (khtml, like gecko) chrome/36.0.1985.125 safari/537.36
+mozilla/5.0 (windows nt 6.1; wow64; trident/7.0; matm; rv:11.0) like gecko
+mozilla/5.0 (windows nt 6.1; wow64) applewebkit/537.36 (khtml, like gecko) chrome/34.0.1847.137 safari/537.36
+mozilla/5.0 (windows nt 6.1; rv:22.0) gecko/20100101 firefox/22.0
+mozilla/5.0 (x11; linux x86_64; rv:31.0) gecko/20100101 firefox/31.0 iceweasel/31.2.0
+mozilla/5.0 (macintosh; intel mac os x 10_10_5) applewebkit/537.36 (khtml, like gecko) chrome/44.0.2403.155 safari/537.36
+mozilla/5.0 (linux; android 4.2.1; en-us; nexus 5 build/jop40d) applewebkit/535.19 (khtml, like gecko; googleweblight) chrome/38.0.1025.166 mobile safari/535.19
+mozilla/5.0 (compatible; msie 10.0; windows nt 6.2; wow64; trident/6.0; asu2js)
+mozilla/5.0 (linux; ubuntu 14.04 like android 4.4) applewebkit/537.36 chromium/35.0.1870.2 mobile safari/537.36
+mozilla/5.0 (windows nt 6.1) applewebkit/537.1 (khtml, like gecko) chrome/21.0.1180.89 safari/537.1; 360spider(compatible; haosouspider; http://www.haosou.com/help/help_3_2.html)
+mozilla/4.0 (compatible; msie 8.0; windows nt 6.0; trident/4.0; funwebproducts; gtb7.5; slcc1; .net clr 2.0.50727; media center pc 5.0; .net clr 3.5.21022; .net clr 3.5.30729; .net clr 3.0.30729; .net4.0c; .net4.0e; cooee)
+mozilla/5.0 (ipad; cpu os 8_3 like mac os x) applewebkit/600.1.4 (khtml, like gecko) mobile/12f69
+mozilla/5.0 (windows nt 6.2; arm; trident/7.0; touch; rv:11.0; wpdesktop; lumia 640 xl lte dual sim) like gecko
+mozilla/5.0 (windows nt 6.0) applewebkit/537.36 (khtml, like gecko) chrome/44.0.2403.130 safari/537.36
+mozilla/4.0 (compatible; msie 8.0; windows nt 6.1; wow64; trident/4.0; slcc2; .net clr 2.0.50727; .net4.0c; .net4.0e; .net clr 3.5.30729; .net clr 3.0.30729; infopath.3)
+opera/9.80 (android; opera mini/7.5.33361/37.6334; u; en) presto/2.12.423 version/12.16
+mozilla/5.0 (x11; linux x86_64) applewebkit/537.36 (khtml, like gecko) chrome/44.0.2403.107 safari/537.36
+mozilla/5.0 (x11; linux x86_64; rv:40.0) gecko/20100101 firefox/40.0
+mozilla/5.0 (windows nt 6.1; wow64) applewebkit/537.36 (khtml, like gecko) chrome/41.0.2272.118 safari/537.36
+mozilla/4.0 (compatible; msie 7.0; windows nt 6.0; gtb7.5; slcc1; .net clr 2.0.50727; media center pc 5.0; .net clr 3.5.30729; infopath.2; .net clr 3.0.30729)
+mozilla/5.0 (x11; linux x86_64; rv:10.0.12) gecko/20100101 firefox/21.0 wordpress.com mshots
+mozilla/5.0 (macintosh; intel mac os x 10_10_5) applewebkit/537.36 (khtml, like gecko) chrome/40.0.2214.91 safari/537.36
+mozilla/5.0 (macintosh; intel mac os x 10_8_4) applewebkit/536.30.1 (khtml, like gecko) version/6.0.5 safari/536.30.1
+mozilla/5.0 (linux; android 5.0.2; lg-d802/v30d build/lrx22g) applewebkit/537.36 (khtml, like gecko) version/4.0 chrome/34.0.1847.118 mobile safari/537.36
+mozilla/5.0 (windows; u; msie 9.0; windows nt 9.0; en-us)
+mozilla/5.0 (windows nt 6.1; wow64) applewebkit/537.36 (khtml, like gecko) chrome/37.0.2062.94 aol/9.7 aolbuild/4343.4043.us safari/537.36
+mozilla/5.0 (windows nt 10.0; wow64; trident/7.0; malnjs; rv:11.0) like gecko
+mozilla/5.0 (macintosh; intel mac os x 10_9_3) applewebkit/537.36 (khtml, like gecko) chrome/34.0.1847.137 safari/537.36
+mozilla/5.0 (ipad; cpu os 8_1_2 like mac os x) applewebkit/600.1.4 (khtml, like gecko) gsa/7.0.55539 mobile/12b440 safari/600.1.4
+mozilla/5.0 (windows nt 6.1) applewebkit/537.36 (khtml, like gecko) chrome/40.0.2214.45 safari/537.36
+mozilla/5.0 (macintosh; intel mac os x 10_10_1) applewebkit/600.2.5 (khtml, like gecko) version/8.0.2 safari/600.2.5
+mozilla/5.0 (windows nt 10.0; trident/7.0; eie10;enusmsn; rv:11.0) like gecko
+mozilla/5.0 (compatible; wow64; msie 10.0; windows nt 6.2)
+mozilla/5.0 (iphone; cpu iphone os 8_4_1 like mac os x) applewebkit/600.1.4 (khtml, like gecko) mobile/12h321
+mozilla/5.0 (compatible; msie 9.0; windows nt 6.0; trident/5.0; tb-webde/2.6.4)
+mozilla/5.0 (x11; linux i686) applewebkit/537.36 (khtml, like gecko) chrome/44.0.2403.157 safari/537.36
+mozilla/5.0 (windows nt 6.3; wow64) applewebkit/537.36 (khtml, like gecko) chrome/42.0.2311.152 yabrowser/15.6.2311.5029 safari/537.36
+mozilla/5.0 (ipad; cpu os 8_4_1 like mac os x) applewebkit/600.1.4 (khtml, like gecko) mobile/12h321
+mozilla/5.0 (windows nt 6.1; wow64) applewebkit/537.36 (khtml, like gecko) chrome/40.0.2214.94 safari/537.36
+mozilla/5.0 (ipad; u; cpu os 4_3_2 like mac os x; en-us) applewebkit/533.17.9 (khtml, like gecko) version/5.0.2 mobile/8h8 safari/6533.18.5
+mozilla/5.0 (linux; u; android 4.4.3; en-us; kfsowi build/ktu84m) applewebkit/537.36 (khtml, like gecko) silk/3.68 like chrome/39.0.2171.93 safari/537.36
+mozilla/5.0 (windows nt 6.1; wow64) applewebkit/537.1 (khtml, like gecko) chrome/21.0.1180.0 aol/9.7 aolbuild/4343.2039.us safari/537.1
+mozilla/5.0 (linux; android 5.0.2; sm-t530nu build/lrx22g) applewebkit/537.36 (khtml, like gecko) chrome/44.0.2403.133 safari/537.36
+mozilla/5.0 (linux; android 5.0.2; samsung sm-t530nu build/lrx22g) applewebkit/537.36 (khtml, like gecko) samsungbrowser/3.2 chrome/38.0.2125.102 safari/537.36
+opera/9.80 (linux armv6l; opera tv store/5599; (sonybdp/bdv13)) presto/2.12.362 version/12.11
+mozilla/5.0 (windows nt 6.1; rv:17.0) gecko/20100101 firefox/17.0
+mozilla/4.0 (compatible; msie 7.0; windows nt 6.1; wow64; trident/7.0; slcc2; .net clr 2.0.50727; .net clr 3.5.30729; .net clr 3.0.30729; media center pc 6.0; .net4.0c; .net4.0e; infopath.3)
+mozilla/4.0 (compatible; msie 6.0; windows nt 5.1; sv1; .net clr 1.1.4322; .net clr 2.0.50728)
+mozilla/5.0 (smart-tv; x11; linux armv7l) applewebkit/537.42 (khtml, like gecko) chromium/25.0.1349.2 chrome/25.0.1349.2 safari/537.42
+mozilla/5.0 (windows nt 6.1; wow64; rv:37.0) gecko/20100101 firefox/37.0
+mozilla/4.0 (compatible; msie 7.0; windows nt 6.1; wow64; trident/7.0; slcc2; .net clr 2.0.50727; .net clr 3.5.30729; .net clr 3.0.30729; media center pc 6.0; infopath.3; .net4.0c; .net4.0e)
+mozilla/5.0 (windows nt 6.3; wow64) applewebkit/537.36 (khtml, like gecko) chrome/44.0.2403.130 safari/537.36
+mozilla/5.0 (mobile; windows phone 8.1; android 4.0; arm; trident/7.0; touch; rv:11.0; iemobile/11.0; microsoft; lumia 535) like iphone os 7_0_3 mac os x applewebkit/537 (khtml, like gecko) mobile safari/537
+mozilla/5.0 (windows nt 10.0; wow64; trident/7.0; yie11; rv:11.0) like gecko
+mozilla/4.0 (compatible; msie 7.0; windows nt 6.0; slcc1; .net clr 2.0.50727; bri/1; .net clr 3.5.30729; .net clr 3.0.30618) 
